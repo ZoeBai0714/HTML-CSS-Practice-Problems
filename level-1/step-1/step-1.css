@@ -7,11 +7,10 @@
 /* I would suggest using float to get this container in its desired location. */
 
 .content-left {
-    width: 34%;
+    width: 3%;
     /* This height is a placeholder. You will need to make some adjustments to get this container to look like the design. */
     height: 100px;
     background: #565555;
-    text-aligh:left
 }
 
 
